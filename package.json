@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kevinbalicot/yion-pug#readme",
   "dependencies": {
-    "pug": "^2.0.0-beta10"
+    "pug": "^3.0.1"
   }
 }
